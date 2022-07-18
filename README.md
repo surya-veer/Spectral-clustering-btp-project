@@ -123,9 +123,5 @@ positively correlated, or both values increase or decrease together.
 
 Where x and y are any two columns and i is the row number.
 
-<object data="https://github.com/surya-veer/Spectral-clustering-btp-project/blob/main/BTPReport.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/surya-veer/Spectral-clustering-btp-project/blob/main/BTPReport.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/surya-veer/Spectral-clustering-btp-project/blob/main/BTPReport.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[READ more](https://github.com/surya-veer/Spectral-clustering-btp-project/blob/main/BTPReport.pdf)
 
